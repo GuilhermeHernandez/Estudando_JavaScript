@@ -15,5 +15,3 @@ const text_1 = 'Alura';
 const text_2 = 'alura';
 
 console.log(text_1 === text_2);
-
-//
